@@ -4,6 +4,6 @@
     <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaax&hide=html,css,hack"/>
   </a>
   <a href="https://rafaax.carrd.co">
-    <img height="700em" src="https://rafaax.carrd.co"/>
+    <h1>Links</h1>
   </a>
   </div>
