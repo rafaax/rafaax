@@ -3,7 +3,4 @@
      <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaax&theme=dark&layout=donut-vertical&hide=html,css,hack"/>
      <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaax&theme=dark&hide=html,css,hack"/>
   </a>
-</div>
-  
-<a href="https://rafaax.carrd.co">Links =)</a>
-  
+</div>  
