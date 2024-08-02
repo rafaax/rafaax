@@ -1,3 +1,4 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,git,js,mysql,php,py,anaconda,ruby,java,threejs,mongodb,firebase" />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafaax&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </p>
