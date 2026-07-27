@@ -1,1 +1,1 @@
-[contact me](mail:raphael.meireles@ssector7.com)
+[contact me](mailto:raphael.meireles@ssector7.com)
